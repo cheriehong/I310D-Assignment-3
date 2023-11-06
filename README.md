@@ -10,6 +10,7 @@ Since the API gives scores between 0 and 1. We can set the threshold to 0.5 and 
 INSERT HERE
 
 <h2> Methods </h2>
+Toxic comments were derived from a dataset found on Kaggle from https://www.kaggle.com/datasets/areeves87/rscience-popular-comment-removal 
 I developed my own (small) test set of N example comments, documented the model scores and labels extracted from the model using the threshold of 0.5. 
 
 <h2> Findings </h2>
