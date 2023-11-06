@@ -7,7 +7,7 @@ Documentation for the Perspective API can be found <a href="https://developers.p
 Since the API gives scores between 0 and 1. We can set the threshold to 0.5 and consider anything above 0.5 as toxic and below 0.5 as non toxic.
 
 <h2> Hypothesis </h2> 
-Perspective will be less likely to mark anti-male content as toxic when compared to anti-female content. 
+INSERT HERE
 
 <h2> Methods </h2>
 I developed my own (small) test set of N example comments, documented the model scores and labels extracted from the model using the threshold of 0.5. 
